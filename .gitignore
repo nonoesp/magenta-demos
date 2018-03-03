@@ -1,0 +1,4 @@
+.DS_Store
+*.DS_Store
+sketch-rnn-js/models/
+sketch-rnn-js/models/*
